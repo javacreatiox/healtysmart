@@ -190,10 +190,10 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome-banner.jpg)no-repeat;
+    background:url(../img/hero/hero.jpeg)no-repeat;
     background-size:cover;
     background-position: center;
-    height:890px;
+    height:930px;
 }
 .welcome-hero:before{
     position:absolute;
@@ -256,7 +256,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 .single-about-txt p {
     font-size: 16px;
     color: #999fb3;
-    padding: 35px 0 43px;
+    padding: 23px 0 43px;
     border-bottom: 1px solid #999fb3;
 }
 .single-about-add-info {
